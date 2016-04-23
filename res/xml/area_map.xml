@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="inch^2" >
+	<entry key="acre">1.594219e-007</entry>
+	<entry key="centimeter^2">6.4516</entry>
+	<entry key="foot^2">0.006944444</entry>
+	<entry key="hectare">6.4516e-008</entry>
+	<entry key="inch^2">1</entry>
+	<entry key="kilometer^2">6.4516e-010</entry>
+	<entry key="meter^2">0.00064516</entry>
+	<entry key="mile^2">2.490977e-010</entry>
+	<entry key="millimeter^2">645.16</entry>
+	<entry key="yard^2">0.0007716049</entry>
+</map>

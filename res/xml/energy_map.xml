@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="joule">
+	<entry key="attojoule">1e+018</entry>
+	<entry key="BTU">0.0009478171</entry>
+	<entry key="calorie">0.2388459</entry>
+	<entry key="dyne-centimeter">1e+007</entry>
+	<entry key="electron volt">6.241457e+018</entry>
+	<entry key="erg">1e+007</entry>
+	<entry key="gigajoule">1e-009</entry>
+	<entry key="gigawatt-hour">2.777778e-013</entry>
+	<entry key="gram force-centimeter">10197.16</entry>
+	<entry key="horsepower-hour">3.725061e-007</entry>
+	<entry key="joule">1</entry>
+	<entry key="kilocalorie">0.0002388459</entry>
+	<entry key="kiloelectron volt">6.241457e+015</entry>
+	<entry key="kilojoule">0.001</entry>
+	<entry key="kilowatt-hour">2.777778e-007</entry>
+	<entry key="megaelectron volt">6.241457e+012</entry>
+	<entry key="megajoule">1e-6</entry>
+	<entry key="megawatt-hour">2.777778e-010</entry>
+	<entry key="microjoule">1000000</entry>
+	<entry key="millijoule">1000</entry>
+	<entry key="nanojoule">1e+009</entry>
+	<entry key="newton-meter">1</entry>
+	<entry key="ounce force-inch">141.6119</entry>
+	<entry key="pound force-foot">0.7375621</entry>
+	<entry key="pound force-inch">8.850746</entry>
+	<entry key="poundal-foot">23.73036</entry>
+	<entry key="therm">9.478134e-009</entry>
+	<entry key="watt-hour">0.0002777778</entry>
+	<entry key="watt-second">1</entry>
+</map>

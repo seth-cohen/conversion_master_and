@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="degree">
+	<entry key="degree">1</entry>
+	<entry key="grad">1.111111</entry>
+	<entry key="minute">60</entry>
+	<entry key="radian">0.01745329</entry>
+	<entry key="revolution">0.00277777</entry>
+	<entry key="right angle">0.00277777</entry>
+	<entry key="second">3600</entry>
+</map>

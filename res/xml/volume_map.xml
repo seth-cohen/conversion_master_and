@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="gallon" >
+	<entry key="cubic centimeter">3785.412</entry>
+	<entry key="cubic foot">0.1336806</entry>
+	<entry key="cubic inch">231</entry>
+	<entry key="cubic meter">0.003785412</entry>
+	<entry key="cubic yard">0.004951132</entry>
+	<entry key="cup">16</entry>
+	<entry key="dram">1023.993</entry>
+	<entry key="drop">58369.65</entry>
+	<entry key="gallon">1</entry>
+	<entry key="gallon (UK)">0.8326738</entry>
+	<entry key="liter">3.785412</entry>
+	<entry key="milliliter">3785.412</entry>
+	<entry key="minim (US)">61440</entry>
+	<entry key="ounce (oz)">128</entry>
+	<entry key="ounce (oz)(UK)">133.2278</entry>
+	<entry key="pint (pt)">8</entry>
+	<entry key="pint (pt)(UK)">6.661393</entry>
+	<entry key="quart">4</entry>
+	<entry key="tablespoon">256</entry>
+	<entry key="teaspon">768</entry>
+</map>

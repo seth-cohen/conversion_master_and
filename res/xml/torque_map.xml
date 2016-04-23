@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="newton meter" >
+	<entry key="dyne centimeter">1e+007</entry>
+	<entry key="gram-force centimeter">10197.2</entry>
+	<entry key="kilogram-force centimeter">0.1019716</entry>
+	<entry key="kilonewton meter">0.001</entry>
+	<entry key="kilopond meter">0.1019716</entry>
+	<entry key="meganewton meter">1e-006</entry>
+	<entry key="micronewton meter">1000000</entry>
+	<entry key="millinewton meter">1000</entry>
+	<entry key="newton meter">1</entry>
+	<entry key="ounce-force foot">11.80097</entry>
+	<entry key="ounce-force inch">141.6116</entry>
+	<entry key="pound-force foot">0.737561</entry>
+	<entry key="pound-force inch">8.85075</entry>
+</map>

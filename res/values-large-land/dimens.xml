@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fragment_select_width">400dip</dimen>
+    <dimen name="text_size_instructions">24sp</dimen>
+</resources>

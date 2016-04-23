@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit_types">
+        <item>Acceleration</item>
+        <item>Angle</item>
+        <item>Area</item>
+        <item>Concentration</item>
+        <item>Density</item>
+        <item>Energy</item>
+        <item>Flow</item>
+        <item>Force</item>
+        <item>Length</item>
+        <item>Light</item>
+        <item>Mass</item>
+        <item>Memory</item>
+        <item>Power</item>
+        <item>Pressure</item>
+        <item>Speed</item>
+        <item>Temperature</item>
+        <item>Thermal Conductivity</item>
+        <item>Time</item>
+        <item>Torque</item>
+        <item>Volume</item>
+        <item>Volume-dry</item>
+	</string-array>
+</resources>
+ 

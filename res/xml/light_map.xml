@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="lux">
+    <entry key="centimeter-candle">0.0001</entry>
+	<entry key="flame">0.02322576</entry>
+	<entry key="foot-candle">0.09290304</entry>
+	<entry key="lumen/cm^2">0.0001</entry>
+	<entry key="lumen/ft^2">0.092903</entry>
+	<entry key="lux (lumen/m^2)">1</entry>
+	<entry key="meter-candle">1</entry>
+	<entry key="nox">1000</entry>
+	<entry key="phot">0.0001</entry>
+	<entry key="watt/cm^2">1.46412884334e-7</entry>
+</map>

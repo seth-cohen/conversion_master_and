@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="gram/centimeter^3">
+	<entry key="gram/centimeter^3">1</entry>
+	<entry key="gram/meter^3">1000000</entry>
+	<entry key="kilogram/meter^3">1000</entry>
+	<entry key="milligram/meter^3">1e+009</entry>
+	<entry key="ounce/gallon">133.5265</entry>
+	<entry key="pound/foot^3">62.42796</entry>
+	<entry key="pound/inch^3">0.03612729</entry>
+	<entry key="ton/yard">1.441769</entry>
+</map>

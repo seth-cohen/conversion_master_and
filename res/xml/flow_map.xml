@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="gallon/minute">
+	<entry key="cm^3/hour">227124.7</entry>
+	<entry key="cm^3/minute">3785.412</entry>
+	<entry key="cm^3/second">63.0902</entry>
+	<entry key="foot^3/hour">8.020833</entry>
+	<entry key="foot^3/minute">0.1336806</entry>
+	<entry key="foot^3/second">0.002228009</entry>
+	<entry key="gallon(UK)/day">1199.05</entry>
+	<entry key="gallon(UK)/hour">49.96043</entry>
+	<entry key="gallon(UK)/minute">0.8326738</entry>
+	<entry key="gallon(UK)/second">0.0138779</entry>
+	<entry key="gallon/day">1440</entry>
+	<entry key="gallon/hour">60</entry>
+	<entry key="gallon/minute">1</entry>
+	<entry key="gallon/second">0.01666667</entry>
+	<entry key="liter/day">5450.993</entry>
+	<entry key="liter/hour">227.1247</entry>
+	<entry key="liter/minute">3.785412</entry>
+	<entry key="liter/second">0.0630902</entry>
+	<entry key="meter^3/day">5.450993</entry>
+	<entry key="meter^3/hour">0.2271247</entry>
+	<entry key="meter^3/minute">0.003785412</entry>
+	<entry key="meter^3/second">6.30902e-005</entry>
+	<entry key="milliliter/hour">227124.7</entry>
+	<entry key="milliliter/minute">3785.412</entry>
+	<entry key="milliliter/second">63.0902</entry>
+	<entry key="ounce(UK)/hour">7993.669</entry>
+	<entry key="ounce(UK)/minute">133.2278</entry>
+	<entry key="ounce(UK)/second">2.220464</entry>
+	<entry key="ounce/hour">7680</entry>
+	<entry key="ounce/minute">128</entry>
+	<entry key="ounce/second">2.133333</entry>
+	<entry key="yard^3/hour">0.2970679</entry>
+	<entry key="yard^3/minute">0.004951132</entry>
+	<entry key="yard^3/second">8.251886e-005</entry>
+</map>

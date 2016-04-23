@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="meter">
+	<entry key="centimeter">100</entry>
+	<entry key="dekameter">0.1</entry>
+	<entry key="foot">3.28083</entry>
+	<entry key="furlong">0.00497097</entry>
+	<entry key="hectometer">0.01</entry>
+	<entry key="inch">39.36996</entry>
+	<entry key="kilometer">0.001</entry>
+	<entry key="lightyear">1.057023e-016</entry>
+	<entry key="meter">1.0</entry>
+	<entry key="micrometer">1000000</entry>
+	<entry key="mil">39370.1</entry>
+	<entry key="mile">0.0006213712</entry>
+	<entry key="millimeter">1000</entry>
+	<entry key="nanometer">1e+009</entry>
+	<entry key="nautical mile">0.0005399568</entry>
+	<entry key="parsec">3.240783e-017</entry>
+	<entry key="yard">1.09361</entry>
+</map>

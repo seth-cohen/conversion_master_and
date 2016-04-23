@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="newton" >
+	<entry key="dyne">100000</entry>
+	<entry key="gram force">101.9716</entry>
+	<entry key="kilogram force">0.1019716</entry>
+	<entry key="kilonewton">0.001</entry>
+	<entry key="millinewton">1000</entry>
+	<entry key="newton">1</entry>
+	<entry key="ounce-force">3.596943</entry>
+	<entry key="pound-force">0.2248089</entry>
+</map>

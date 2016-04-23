@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="watt/(meter.°K)">
+    <entry key="BTU[IT]-in/(h.ft^2.°F)">6.933471799</entry>
+	<entry key="BTU[th]-in/(h.ft^2.°F)">6.938111789</entry>
+	<entry key="BTU[IT]-in/(s.ft^2.°F)">0.001925964</entry>
+	<entry key="BTU[th]-in/(s.ft^2.°F)">0.001927253</entry>
+	<entry key="BTU[IT]-ft/(s.ft^2.°F)">0.577789317</entry>
+	<entry key="BTU[th]-ft/(s.ft^2.°F)">0.578175982</entry>
+	<entry key="calorie[IT]/(s.cm.°C)">0.002388459</entry>
+	<entry key="calorie[th]/(s.cm.°C)">0.002390057</entry>
+	<entry key="kcalorie[IT]/(h.m.°C)">0.859845228</entry>
+	<entry key="kcalorie[th]/(h.m.°C)">0.86042065</entry>
+	<entry key="kilowatt/(h.meter.°K)">0.001</entry>
+	<entry key="watt/(centimeter.°K)">0.01</entry>
+	<entry key="watt/(meter.°K)">1</entry>
+</map>

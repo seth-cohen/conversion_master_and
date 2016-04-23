@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="mile/hour">
+	<entry key="C">1.491165e-009</entry>
+	<entry key="centimeter/hour">160934.4</entry>
+	<entry key="centimeter/minute">2682.24</entry>
+	<entry key="centimeter/second">44.704</entry>
+	<entry key="foot/hour">5280</entry>
+	<entry key="foot/minute">88</entry>
+	<entry key="foot/second">1.466667</entry>
+	<entry key="kilometer/hour">1.609344</entry>
+	<entry key="kilometer/minute">0.0268224</entry>
+	<entry key="kilometer/second">0.00044704</entry>
+	<entry key="knot">0.8689762</entry>
+	<entry key="mach">0.0013487</entry>
+	<entry key="meter/hour">1609.344</entry>
+	<entry key="meter/minute">26.8224</entry>
+	<entry key="meter/second">0.44704</entry>
+	<entry key="mile/hour">1</entry>
+	<entry key="mile/minute">0.01666667</entry>
+	<entry key="mile/second">0.0002777778</entry>
+</map>

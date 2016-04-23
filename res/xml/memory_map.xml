@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="byte">
+	<entry key="bit">8</entry>
+	<entry key="byte">1</entry>
+	<entry key="exabyte">8.673617e-019</entry>
+	<entry key="gigabyte">9.313226e-010</entry>
+	<entry key="kilobit">0.0078125</entry>
+	<entry key="kilobyte">0.0009765625</entry>
+	<entry key="megabit">7.629395e-006</entry>
+	<entry key="megabyte">9.536743e-007</entry>
+	<entry key="nibble">2</entry>
+	<entry key="petabyte">8.881784e-016</entry>
+	<entry key="terabyte">9.094947e-013</entry>
+	<entry key="yottabyte">8.271806e-025</entry>
+	<entry key="zettabyte">8.470329e-022</entry>
+</map>

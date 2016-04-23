@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="length_types">
+        <item>centimeter</item>
+        <item>dekameter</item>
+        <item>foot</item>
+        <item>furlong</item>
+        <item>inch</item>
+        <item>kilometer</item>
+        <item>lightyear</item>
+        <item>meter</item>
+        <item>micrometer</item>
+        <item>mil</item>
+        <item>mile</item>
+        <item>nanometer</item>
+        <item>nautical mile</item>
+        <item>parsec</item>
+        <item>yard</item>
+	</string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Conversion Master - Free</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="unit_select_title">Unit Conversion App</string>
+    <string name="unit_select_instructions">Choose Unit Type To Convert</string>
+    <string name="convert_from_hint">Enter value to convert</string>
+    <string name="covert_from_unit_hint">Units</string>
+    <string name="convert_to_hint">Then press convert</string>
+    <string name="covert_to_unit_hint">Units</string>
+    <string name="convert_button">Convert</string>
+    <string name="conversion_instructions">Enter a value to convert and then tap on the unit below to set it as the conversion basis</string>
+    <string name="done">Done</string>
+    <string name="decimal_point">.</string>
+    <string name="select_all">Select All</string>
+
+    <string name="pro_app_string">Click to Purchase Pro Version</string>
+   	<string name="pro_app_link">market://details?id=com.forwardthinking.conversionmaster</string> 
+    
+    <item name="textTypeTag" type="id"/>
+
+    <string name="title_activity_converter">Converting Details</string>
+
+</resources>

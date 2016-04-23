@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="mole/liter">
+	<entry key="kilomole/meter^3">1</entry>
+	<entry key="micromole/cm^3">1000</entry>
+	<entry key="micromole/dm^3">1000000</entry>
+	<entry key="micromole/liter">1000000</entry>
+	<entry key="millimole/cm^3">1</entry>
+	<entry key="millimole/dm^3">1000</entry>
+	<entry key="millimole/liter">1000</entry>
+	<entry key="millimole/meter^3">1000000</entry>
+	<entry key="millimole/milliliter">1</entry>
+	<entry key="mole/decimeter^3">1</entry>
+	<entry key="mole/liter">1</entry>
+	<entry key="mole/meter^3">1000</entry>
+</map>

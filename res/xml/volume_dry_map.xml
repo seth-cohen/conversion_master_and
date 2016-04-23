@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="liter" >
+	<entry key="barrel">0.008648489</entry>
+	<entry key="bushel">0.02837759</entry>
+	<entry key="liter">1</entry>
+	<entry key="peck">0.1135104</entry>
+	<entry key="pint (pt)">1.816166</entry>
+	<entry key="quart">0.9080829</entry>
+</map>

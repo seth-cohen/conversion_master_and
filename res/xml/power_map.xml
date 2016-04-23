@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="watt" >
+	<entry key="BTU/hour">3.415179</entry>
+	<entry key="BTU/minute">0.05691965</entry>
+	<entry key="BTU/second">0.0009486608</entry>
+	<entry key="calorie/second">0.2390585</entry>
+	<entry key="horsepower">0.001341022</entry>
+	<entry key="kilowatt">0.001</entry>
+	<entry key="megawatt">1e-006</entry>
+	<entry key="pound-feed/minute">44.25373</entry>
+	<entry key="pound-feet/second">0.7375621</entry>
+	<entry key="watt">1</entry>
+</map>

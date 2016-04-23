@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="kilogram">
+	<entry key="carat">5000</entry>
+	<entry key="grain">15432.4</entry>
+	<entry key="gram">1000</entry>
+	<entry key="kilogram">1</entry>
+	<entry key="megagram">0.001</entry>
+	<entry key="microgram">1e+9</entry>
+	<entry key="milligram">1000000</entry>
+	<entry key="ounce (avdp)">35.27392</entry>
+	<entry key="ounce (troy)">32.1505</entry>
+	<entry key="pennyweight">643.014</entry>
+	<entry key="pound (advp)">2.20462</entry>
+	<entry key="pound (troy)">2.679209</entry>
+	<entry key="stone">.1574728</entry>
+	<entry key="ton (long)">0.0009842</entry>
+	<entry key="ton (short)">0.0011023</entry>
+	<entry key="tonne (metric) ">0.001</entry>
+</map>

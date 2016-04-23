@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="Celsius">
+	<entry key="Celsius">1|0</entry>
+	<entry key="Fahrenheit">1.8|-32</entry>
+	<entry key="Kelvin">1|-273.15</entry>
+	<entry key="Rankine">1.8|-491.67</entry>
+</map>

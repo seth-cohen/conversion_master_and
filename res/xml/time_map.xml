@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="day">
+	<entry key="century">2.739726e-005</entry>
+	<entry key="day">1</entry>
+	<entry key="decade">0.0002739726</entry>
+	<entry key="fortnight">0.07142857</entry>
+	<entry key="hour">24</entry>
+	<entry key="leap-year">0.00273224</entry>
+	<entry key="millennium">2.739726e-006</entry>
+	<entry key="millisecond">8.64e+007</entry>
+	<entry key="minute">1440</entry>
+	<entry key="month (30 day)">0.03333333</entry>
+	<entry key="nanosecond">8.64e+013</entry>
+	<entry key="second">86400</entry>
+	<entry key="week">0.1428571</entry>
+	<entry key="year">0.002739726</entry>
+</map>

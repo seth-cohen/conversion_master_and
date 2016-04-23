@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="G">
+	<entry key="centimeter/sec^2">980.6688</entry>
+	<entry key="foot/sec^2">32.17417</entry>
+	<entry key="G">1</entry>
+	<entry key="meter/sec^2">9.80665</entry>
+	<entry key="mile/hour second">21.93689</entry>
+	<entry key="millimeter/sec^2">9806.688</entry>
+</map>

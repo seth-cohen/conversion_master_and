@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/pref_selection_title" >
+        <ListPreference
+            android:defaultValue="@string/pref_precision_default"
+            android:dialogTitle="@string/pref_prec_selection_title"
+            android:entries="@array/pref_precision_entries"
+            android:entryValues="@array/pref_precision_entries"
+            android:key="pref_precision"
+            android:title="@string/pref_precision_title" 
+            android:summary="Current setting is: " />
+    </PreferenceCategory> 
+    <PreferenceCategory android:title="Support Developer" >
+    	<com.forwardthinking.conversionmasterfree.LinkDialogPreference
+            android:dialogIcon="@android:drawable/ic_dialog_alert"
+            android:title="Purchase Pro Version"
+            android:summary="Remove the ads, support the developer and purchase the app"
+            android:dialogMessage="Thank you for deciding to support the developers.  Are you certain you'd like to do this?"
+            android:positiveButtonText="Of Course"
+            android:negativeButtonText="Cancel"/>    
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map base="bar" >
+	<entry key="atmosphere">0.9869233</entry>
+	<entry key="bar">1</entry>
+	<entry key="cm Hg">75.00617</entry>
+	<entry key="dyne/centimeter^2">1000000</entry>
+	<entry key="in Hg">29.52999</entry>
+	<entry key="kilogram/cm^2">1.019716</entry>
+	<entry key="kilogram/meter^2">10197.16</entry>
+	<entry key="kilopascal">100</entry>
+	<entry key="megapascal">0.1</entry>
+	<entry key="microbar">1000000</entry>
+	<entry key="millibar">1000</entry>
+	<entry key="mm Hg">750.0617</entry>
+	<entry key="pascal">100000</entry>
+	<entry key="pound/foot^2">2088.543</entry>
+	<entry key="PSI">14.50377</entry>
+	<entry key="ton/foot^2">1.044272</entry>
+	<entry key="ton/inch^2">0.007251887</entry>
+	<entry key="torr">750.0617</entry>
+</map>
